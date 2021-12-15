@@ -18,7 +18,7 @@
 <br>
 
 <div align="center">
-  <h3>Tech Stacks and Tools</h3>
+  <h3>🔧 Tech Stacks and Tools 🔨</h3>
   <img src="https://github.com/dmin0211/dmin0211/blob/main/image/html.png">
   <img src="https://github.com/dmin0211/dmin0211/blob/main/image/css.png">
   <img src="https://github.com/dmin0211/dmin0211/blob/main/image/js.png">
